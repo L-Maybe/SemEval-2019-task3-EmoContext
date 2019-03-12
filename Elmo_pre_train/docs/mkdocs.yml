@@ -1,0 +1,8 @@
+site_name: anaGo
+pages:
+  - Home: index.md
+  - Installation: install.md
+  - Usage: usage.md
+  - Pretrained Models: resources.md
+  - Tutorials: tutorials.md
+theme: material

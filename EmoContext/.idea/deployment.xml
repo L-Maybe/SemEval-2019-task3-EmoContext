@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="230_emoContext">
+    <serverData>
+      <paths name="229_emoContext">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lidawei/doc/EmoContext" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="230_emoContext">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lidawei/doc/emocontext" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
