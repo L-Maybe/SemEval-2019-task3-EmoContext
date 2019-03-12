@@ -10,3 +10,4 @@ Elmo预训练与 字向量训练文件夹中都有使用说明。自行查阅。
 ELMO预训练与字向量训练使用别人的项目，使用时请注意出处。
 
 
+![image](https://github.com/L-Maybe/SemEval-2019-task3-EmoContext/blob/master/Architecture.png)
