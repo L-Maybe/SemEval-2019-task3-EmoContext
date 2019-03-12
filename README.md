@@ -9,5 +9,14 @@ Elmo预训练与 字向量训练文件夹中都有使用说明。自行查阅。
 
 ELMO预训练与字向量训练使用别人的项目，使用时请注意出处。
 
-
+The system architecture.
 ![image](https://github.com/L-Maybe/SemEval-2019-task3-EmoContext/blob/master/Architecture.png)
+
+The result of system.
+![image](https://github.com/L-Maybe/SemEval-2019-task3-EmoContext/blob/master/result.png)
+
+
+1.*Win 10
+2.*tensorflow-gpu == 1.8.0
+3.*keras == 2.2.4
+4.*gensim == 3.6.0
