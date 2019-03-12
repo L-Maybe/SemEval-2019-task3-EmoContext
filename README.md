@@ -16,7 +16,7 @@ The result of system.
 ![image](https://github.com/L-Maybe/SemEval-2019-task3-EmoContext/blob/master/result.png)
 
 
-1.* Win 10
-2.* tensorflow-gpu == 1.8.0
-3.* keras == 2.2.4
-4.* gensim == 3.6.0
+* Win 10
+* tensorflow-gpu == 1.8.0
+* keras == 2.2.4
+* gensim == 3.6.0
