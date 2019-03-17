@@ -25,3 +25,4 @@ ELMO pre-training and word vector training use other people's projects, please p
 * tensorflow-gpu == 1.8.0
 * keras == 2.2.4
 * gensim == 3.6.0
+* ekphrasis == 0.5.1
